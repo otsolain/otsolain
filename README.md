@@ -7,7 +7,7 @@
   <h1 align="center">Hi there <img src="assets/anime.gif" width="50" /></h1>
 </div>
 
-<img align="right" width="400" height="400" alt="Image" src="assets/frieren.png" />
+<img align="right" width="350" height="350" alt="Image" src="assets/frieren.png" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&height=100&vCenter=true&multiline=true&repeat=false&lines=I'm+Otsolain.;I'm+a+computer+science+student;interested+in+web+security." alt="Typing SVG" /></a>
 
