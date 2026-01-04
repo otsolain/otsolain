@@ -2,33 +2,28 @@
   <img src="assets/banner.gif" alt="Banner" width="100%" />
 </div>
 
-<div align="center">
-  <h1>Hi there <img src="assets/anime.gif" width="50" /></h1>
+<div>
+  <img align="right" src="https://github.com/user-attachments/assets/356e412b-1776-4b12-9685-aabaff8f490f" width="30" />
+  <h1 align="center">Hi there <img src="assets/anime.gif" width="50" /></h1>
 </div>
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="60%">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&height=100&vCenter=true&multiline=true&repeat=false&lines=I'm+Otsolain.;I'm+a+computer+science+student;interested+in+web+security." alt="Typing SVG" /></a>
-      <br><br>
-      <b>Currently focusing on:</b>
-      <ul>
-        <li>Understanding how web applications work</li>
-        <li>Learning common web security issues</li>
-        <li>Building small projects to practice secure backend development</li>
-      </ul>
-      <b>This GitHub is used for:</b>
-      <ul>
-        <li>Learning projects</li>
-        <li>Security labs and experiments</li>
-        <li>Notes and documentation from my learning process</li>
-      </ul>
-    </td>
-    <td align="right" width="40%">
-      <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/67e32130-824d-4be7-982d-e397e78f2f74" />
-    </td>
-  </tr>
-</table>
+<img align="right" width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/67e32130-824d-4be7-982d-e397e78f2f74" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&height=100&vCenter=true&multiline=true&repeat=false&lines=I'm+Otsolain.;I'm+a+computer+science+student;interested+in+web+security." alt="Typing SVG" /></a>
+
+**Currently focusing on:**
+
+- Understanding how web applications work
+- Learning common web security issues
+- Building small projects to practice secure backend development
+
+**This GitHub is used for:**
+
+- Learning projects
+- Security labs and experiments
+- Notes and documentation from my learning process
+
+<br clear="right"/>
 
 <div align="center">
   <h2>Tools That I Use</h2>
